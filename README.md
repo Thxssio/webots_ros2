@@ -8,6 +8,7 @@
 * ros2 humble
 * Cpp
 * webots
+* gazebo
 
 
 reminder:
