@@ -1,5 +1,5 @@
 <h1 align=center>
-  webots_ros2
+  Webots_ros2
 </h1>
 
 ***Workspace Webots simulation UAV***
@@ -15,3 +15,10 @@ reminder:
 ```
 source /opt/ros/humble/setup.bash 
 ```
+```
+colcon build
+```
+```
+source install/setup.bash
+```
+
