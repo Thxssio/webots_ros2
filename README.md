@@ -1,9 +1,16 @@
-<h1 align=center>webots_ros2</h1>
-Workspace Webots simulation UAV
+<h1 align=center>
+  webots_ros2
+</h1>
 
-* python3
+***Workspace Webots simulation UAV***
+
+* Python3
 * ros2 humble
-* cpp
+* Cpp
+* webots
+
+
+reminder:
 
 ```
 source /opt/ros/humble/setup.bash 
