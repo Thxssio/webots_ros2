@@ -1,0 +1,29 @@
+[0.376s] Invoking command in '/home/thxssio/Documents/webots_ws/src/my_package': PYTHONPATH=/home/thxssio/Documents/webots_ws/build/my_package/prefix_override:/home/thxssio/Documents/webots_ws/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_package build --build-base /home/thxssio/Documents/webots_ws/build/my_package/build install --record /home/thxssio/Documents/webots_ws/build/my_package/install.log --single-version-externally-managed
+[0.494s] running egg_info
+[0.495s] writing ../../build/my_package/my_package.egg-info/PKG-INFO
+[0.495s] writing dependency_links to ../../build/my_package/my_package.egg-info/dependency_links.txt
+[0.495s] writing entry points to ../../build/my_package/my_package.egg-info/entry_points.txt
+[0.495s] writing requirements to ../../build/my_package/my_package.egg-info/requires.txt
+[0.495s] writing top-level names to ../../build/my_package/my_package.egg-info/top_level.txt
+[0.496s] reading manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[0.496s] writing manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[0.496s] running build
+[0.496s] running build_py
+[0.496s] copying my_package/obstacle_avoider.py -> /home/thxssio/Documents/webots_ws/build/my_package/build/lib/my_package
+[0.496s] running install
+[0.497s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.497s]   warnings.warn(
+[0.497s] running install_lib
+[0.497s] copying /home/thxssio/Documents/webots_ws/build/my_package/build/lib/my_package/obstacle_avoider.py -> /home/thxssio/Documents/webots_ws/install/my_package/lib/python3.10/site-packages/my_package
+[0.497s] byte-compiling /home/thxssio/Documents/webots_ws/install/my_package/lib/python3.10/site-packages/my_package/obstacle_avoider.py to obstacle_avoider.cpython-310.pyc
+[0.497s] running install_data
+[0.498s] copying launch/robot_launch.py -> /home/thxssio/Documents/webots_ws/install/my_package/share/my_package/launch
+[0.498s] copying resource/my_robot.urdf -> /home/thxssio/Documents/webots_ws/install/my_package/share/my_package/resource
+[0.498s] running install_egg_info
+[0.499s] removing '/home/thxssio/Documents/webots_ws/install/my_package/lib/python3.10/site-packages/my_package-0.0.0-py3.10.egg-info' (and everything under it)
+[0.499s] Copying ../../build/my_package/my_package.egg-info to /home/thxssio/Documents/webots_ws/install/my_package/lib/python3.10/site-packages/my_package-0.0.0-py3.10.egg-info
+[0.499s] running install_scripts
+[0.511s] Installing my_robot_driver script to /home/thxssio/Documents/webots_ws/install/my_package/lib/my_package
+[0.511s] Installing obstacle_avoider script to /home/thxssio/Documents/webots_ws/install/my_package/lib/my_package
+[0.511s] writing list of installed files to '/home/thxssio/Documents/webots_ws/build/my_package/install.log'
+[0.524s] Invoked command in '/home/thxssio/Documents/webots_ws/src/my_package' returned '0': PYTHONPATH=/home/thxssio/Documents/webots_ws/build/my_package/prefix_override:/home/thxssio/Documents/webots_ws/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_package build --build-base /home/thxssio/Documents/webots_ws/build/my_package/build install --record /home/thxssio/Documents/webots_ws/build/my_package/install.log --single-version-externally-managed
